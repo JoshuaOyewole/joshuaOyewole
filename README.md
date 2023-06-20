@@ -11,5 +11,25 @@ Asides developing for web application, I love community building, making resourc
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing Musical Instrument (Drumset and Keyboard)!
 
+## 📌 Skills
+- Languages: JavaScript/Typescript, NodeJs
+- Tools: Git & Github, VS Code
+
+Technologies used: 
+
+- Reactjs
+- Redux (State Management)
+- ExpressJs
+- MongoDB
+- Ant Design (UI Component Library)
+- API integration (REST APIs)
+- Testing (React Testing Library & Jest)
+
+
+## 📲 Get in touch
+- [Resume](https://drive.google.com/file/d/18mUm61wTRcJq51LNfW4yCfr-IwreODfs/view?usp=share_link)
+- [Twitter](https://twitter.com/joshuaoyewole01)
+- [LinkedIn](https://www.linkedin.com/in/chisom-okoye-399112122/)
+- [Medium](https://medium.com/@chisomokoye)
 P/S: I'm also avaliable for full-time Frontend and Fullstack (MERN Stack) Engineering roles, check out my work!
 
