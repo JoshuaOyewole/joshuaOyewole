@@ -1,6 +1,7 @@
 ### Hi, I'm Joshua :relaxed:
 
-I am a React Frontend Developer with an eye for details and pays great attention, especially around performance accessibility, security and maintainability for webb applications.who loves building software solutions that run on mobile devices!
+I am a Sofware Developer with over 2 years of industry experience creating solutions that solves business and human needs. Skilled in the use of Javascript, Typescript, ReactJS, NodeJS and NextJs in creating optimized and reusable codes.
+I have an eye for details and pays great attention, especially around performance, accessibility, security and maintainability for web applications.
 
 Asides developing for web application, I love community building, making resourceful videos to help the community, writing technical articles and being the best version of myself!
 
