@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Joshua :relaxed:
 
-<!--
-**JoshuaOyewole/joshuaOyewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a React Frontend Developer with an eye for details and pays great attention, especially around performance accessibility, security and maintainability for webb applications.who loves building software solutions that run on mobile devices!
 
-Here are some ideas to get you started:
+Asides developing for web application, I love community building, making resourceful videos to help the community, writing technical articles and being the best version of myself!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an Open Source Software EatMan (An Point of Sale software to help Small Scale Business Owners)
+- 🌱 I’m currently learning best practices in developing web applications
+- 👯 I’m looking to collaborate on innovative software solutions
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing Musical Instrument (Drumset and Keyboard)!
+
+P/S: I'm also avaliable for full-time Frontend and Fullstack (MERN Stack) Engineering roles, check out my work!
+
