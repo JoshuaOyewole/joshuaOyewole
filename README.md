@@ -29,7 +29,7 @@ Technologies used:
 ## 📲 Get in touch
 - [Resume]()
 - [Twitter](https://twitter.com/joshuaoyewole01)
-- [LinkedIn](https://www.linkedin.com/in/chisom-okoye-399112122/)
+- [LinkedIn](https://www.linkedin.com/in/joshuaoyewole/)
 
 P/S: I'm also available for full-time Frontend and Fullstack (MERN Stack) Engineering roles, check out my work!
 - [Portfolio](https://joshuaoyewole.com.ng)
