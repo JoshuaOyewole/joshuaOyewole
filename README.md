@@ -5,7 +5,7 @@ I have an eye for details and pay great attention, especially to performance, ac
 
 Asides from developing web applications, I love community building, making resourceful videos to help the community, writing technical articles, and being the best version of myself!
 
-- 🔭 I’m currently working on an Open Source Software EatMan (An Point of Sale software to help Small Scale Business Owners)
+- 🔭 I’m currently working on an Open Source Software EatMan (A Point of Sale software to help Small Scale Business Owners)
 - 🌱 I’m currently learning best practices in developing web applications
 - 👯 I’m looking to collaborate on innovative software solutions
 - 😄 Pronouns: He/Him
